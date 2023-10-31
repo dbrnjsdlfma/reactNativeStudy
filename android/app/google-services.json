@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142901713953",
+    "project_id": "react-native-studyproject",
+    "storage_bucket": "react-native-studyproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142901713953:android:a12b114ad45b533fb4d760",
+        "android_client_info": {
+          "package_name": "com.learnrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142901713953-4i91usgpkq9854nja1lsg8c8hdc41mpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learnrn",
+            "certificate_hash": "fd95d13d4a7afb10cca1912dde1bcaa13b3a8c43"
+          }
+        },
+        {
+          "client_id": "142901713953-crom520kbm1vh4vpnep31b9hiqbkaj35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqzdfC7kPHwln8FN0_rgNKKqbFQKpQy60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142901713953-crom520kbm1vh4vpnep31b9hiqbkaj35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
